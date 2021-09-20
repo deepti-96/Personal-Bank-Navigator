@@ -32,6 +32,8 @@ Step 9: END
  
  ![2](https://user-images.githubusercontent.com/72935128/134066778-77d3cb42-9696-4771-beee-708886346a30.png)
 
+## License
 
+[MIT](https://choosealicense.com/licenses/mit/)
 
 	
